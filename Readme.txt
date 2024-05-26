@@ -1,0 +1,3 @@
+The project's main aim is to use a bag of words model to pre-process the textual data (Data that is segregated into two categories: positive or negative restaurant reviews), and then train and test a naive bayes model (In this case, multinomialNB) to achieve a good accuracy score (90.56% accuracy was achieved in the end).
+............................................................................................................................
+Dataset link:https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
